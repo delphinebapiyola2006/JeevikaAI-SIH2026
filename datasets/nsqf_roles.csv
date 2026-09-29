@@ -1,0 +1,11 @@
+role_id,job_role,sector,qp_code,nsqf_level,keywords,education_min,employment_mode
+R001,Solar PV Installer,Green Jobs,SGJ/Q0101,4,"solar;pv;electrical;installation",10th,Both
+R002,Retail Sales Associate,Retail,RAS/Q0104,4,"retail;sales;customer;billing",10th,Wage Employment
+R003,Assistant Electrician,Power,PSS/Q0101,3,"electrical;wiring;repair;safety",8th,Both
+R004,Agriculture Field Worker,Agriculture,AGR/Q0102,3,"agriculture;farming;crop;soil",8th,Both
+R005,Poultry Farm Worker,Agriculture,AGR/Q0201,3,"poultry;animal;farm;feeding",8th,Self Employment
+R006,Tailor,Apparel,AMH/Q1902,3,"tailoring;stitching;garment",8th,Self Employment
+R007,Food Processing Worker,Food Industry,FIC/Q0101,3,"food;processing;packaging;hygiene",8th,Both
+R008,Digital Marketing Executive,IT-ITeS,MES/Q0706,5,"digital;marketing;social media;computer",12th,Both
+R009,Field Technician - Telecom,Telecom,TEL/Q4101,4,"telecom;network;field;repair",10th,Wage Employment
+R010,Micro Enterprise Assistant,Entrepreneurship,MEP/Q0001,4,"business;enterprise;finance;customer",10th,Self Employment

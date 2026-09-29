@@ -1,0 +1,16 @@
+opportunity_id,title,sector,district,location_type,latitude,longitude,demand_level,role_id,source_type
+O001,Solar Livelihood Cluster,Green Jobs,Coimbatore,Training / Enterprise,11.0168,76.9558,High,R001,DEMO
+O002,Retail Employment Cluster,Retail,Coimbatore,Employment,11.0183,76.9725,High,R002,DEMO
+O003,Electrical Services Cluster,Power,Coimbatore,Enterprise,11.0055,76.9610,Medium,R003,DEMO
+O004,Agriculture Support Cluster,Agriculture,Coimbatore,Enterprise,10.9800,76.9300,High,R004,DEMO
+O005,Food Processing Cluster,Food Industry,Tiruppur,Enterprise,11.1085,77.3411,High,R007,DEMO
+O006,Tailoring Cluster,Apparel,Tiruppur,Enterprise,11.1000,77.3500,High,R006,DEMO
+O007,Agri Enterprise Signal,Agriculture,Erode,Enterprise,11.3410,77.7172,High,R004,DEMO
+O008,Digital Services Signal,IT-ITeS,Erode,Employment,11.3300,77.7300,Medium,R008,DEMO
+O009,Electrical & Repair Cluster,Power,Salem,Enterprise,11.6643,78.1460,Medium,R003,DEMO
+O010,Retail Services Cluster,Retail,Salem,Employment,11.6500,78.1600,High,R002,DEMO
+O011,Food & Micro Enterprise Cluster,Food Industry,Madurai,Enterprise,9.9252,78.1198,High,R007,DEMO
+O012,Digital Skills Signal,IT-ITeS,Madurai,Training / Employment,9.9300,78.1300,Medium,R008,DEMO
+O013,Micro Enterprise Support,Entrepreneurship,Namakkal,Enterprise,11.2189,78.1674,Medium,R010,DEMO
+O014,Field Technician Signal,Telecom,Trichy,Employment,10.7905,78.7047,Medium,R009,DEMO
+O015,Digital Employment Hub,IT-ITeS,Chennai,Employment,13.0827,80.2707,High,R008,DEMO
